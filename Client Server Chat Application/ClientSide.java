@@ -11,7 +11,7 @@
 import java.io.*;
 import java.net.*;
 
-class Client1
+class ClientSide
 {
 	public static void main(String args[]) throws Exception
 	{
